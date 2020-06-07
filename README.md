@@ -24,4 +24,7 @@ obs, reward, done, _ = env.step(1)  # Go to the right.
 
 Install:
 
-`pip3 install -e .`
+`pip3 install -e .`, or:
+
+`pip3 install git+git://github.com/instance01/gym-mini-envs.git`
+
